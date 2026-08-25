@@ -1,0 +1,32 @@
+{
+  "name": "predimark",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^7.2.0",
+    "@fortawesome/react-fontawesome": "^3.2.0",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.8",
+    "chart.js": "^4.5.1",
+    "font-awesome": "^4.7.0",
+    "highcharts": "^11.4.8",
+    "highcharts-react-official": "^3.2.3",
+    "next": "16.1.6",
+    "next-nprogress-bar": "^2.4.7",
+    "react": "19.2.3",
+    "react-bootstrap": "^2.10.10",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "19.2.3",
+    "react-multi-carousel": "^2.8.6",
+    "react-select": "^5.10.2",
+    "react-slick": "^0.31.0",
+    "simplebar": "^6.3.3",
+    "simplebar-react": "^3.3.2",
+    "slick-carousel": "^1.8.1"
+  }
+}
