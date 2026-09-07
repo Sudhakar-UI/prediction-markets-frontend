@@ -3652,7 +3652,7 @@ textarea.form-control {
   }
 
   .userpanelpage .uheadbg .navbar-toggler,
-  .navbar-toggler:focus {
+  .userpanelpage .uheadbg .navbar-toggler:focus {
     display: none;
   }
 
