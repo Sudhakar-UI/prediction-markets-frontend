@@ -279,8 +279,8 @@ const Homeheader = () => {
           <hr />
 
           <div className="offcanvas-nav-link-align">
-            <Link href="#0" className="offcanvas-link">Profile</Link>
-            <Link href="#0" className="offcanvas-link">Account</Link>
+            <Link href="/profile" onClick={handleCloseCanvas} className="offcanvas-link">Profile</Link>
+            <Link href="/withdraw" className="offcanvas-link">Account</Link>
             <Link href="#0" className="offcanvas-link">Trading</Link>
             <Link href="#0" className="offcanvas-link">Notification</Link>
             <Link href="#0" className="offcanvas-link">Builder Codes</Link>
